@@ -51,3 +51,7 @@ This is a group activity for at least 3 students:
 8. **Winner:** Find the winning Proposal<br>
    <img width="628" alt="Screenshot 2024-09-01 at 13 57 07" src="https://github.com/user-attachments/assets/73b600c4-a0b9-49dc-a7f0-7d5881f5320e">
 
+* Addresses of deployed and verified smart contracts on the Sepolia test network:
+https://sepolia.etherscan.io/address/0x17dd97c1d099a31b4eaa67047cdc3e8a157c4be9 (MyToken)
+https://sepolia.etherscan.io/address/0x46453a33b8ad9519f1e339be22f03d071f667049 (CallOracle)
+https://sepolia.etherscan.io/address/0xc09427e4f8310e0290dc93b488aaff3874be49a8 (TokenizedBallot)
