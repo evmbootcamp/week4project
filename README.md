@@ -33,21 +33,21 @@ This is a group activity for at least 3 students:
 
 1. **Successfully requested voting tokens to be minted using the API**
    - [GitHub Link](https://github.com/evmbootcamp/week4project)
-   <img width="474" alt="Screenshot 2024-09-01 at 13 50 00" src="https://github.com/user-attachments/assets/23cd8e26-e99f-49b6-9344-f25ea306c73e"><br>
-   <img width="504" alt="Screenshot 2024-09-01 at 13 53 05" src="https://github.com/user-attachments/assets/8bf521f4-b3fc-4a2f-9039-e3c98d632424"><br>
+     <img width="474" alt="Screenshot 2024-09-01 at 13 50 00" src="https://github.com/user-attachments/assets/23cd8e26-e99f-49b6-9344-f25ea306c73e"><br>
+     <img width="504" alt="Screenshot 2024-09-01 at 13 53 05" src="https://github.com/user-attachments/assets/8bf521f4-b3fc-4a2f-9039-e3c98d632424"><br>
 
 2. **Self-Delegation:** Successfully self-delegated for Voting Power
    <img width="476" alt="Screenshot 2024-09-01 at 13 53 54" src="https://github.com/user-attachments/assets/de56ad68-abff-4bfd-a3fa-2ab70174f666"><br>
    <img width="474" alt="Screenshot 2024-09-01 at 13 50 00" src="https://github.com/user-attachments/assets/23cd8e26-e99f-49b6-9344-f25ea306c73e"><br>
 
-3. **Get the TargetBlockNumber**
+4. **Get the TargetBlockNumber**
    <img width="629" alt="Screenshot 2024-09-01 at 13 55 00" src="https://github.com/user-attachments/assets/952fef26-21fb-4608-a612-fc47d201a4c9"><br>
    <img width="499" alt="Screenshot 2024-09-01 at 13 55 33" src="https://github.com/user-attachments/assets/40ffa92f-4acd-41dc-9611-62e0b7107914"><br>
 
-4. **Vote:** Vote for a Proposal
+6. **Vote:** Vote for a Proposal
    <img width="444" alt="Screenshot 2024-09-01 at 13 56 05" src="https://github.com/user-attachments/assets/fbb974aa-4910-4961-af7a-fd28befd330e"><br>
    <img width="444" alt="Screenshot 2024-09-01 at 13 56 27" src="https://github.com/user-attachments/assets/3617eceb-8f8d-4d87-b36c-7ad20bb90b0f"><br>
 
-5. **Winner:** Find the winning Proposal
-   <img width="628" alt="Screenshot 2024-09-01 at 13 57 07" src="https://github.com/user-attachments/assets/73b600c4-a0b9-49dc-a7f0-7d5881f5320e">
+8. **Winner:** Find the winning Proposal
+9. <img width="628" alt="Screenshot 2024-09-01 at 13 57 07" src="https://github.com/user-attachments/assets/73b600c4-a0b9-49dc-a7f0-7d5881f5320e">
 
