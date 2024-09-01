@@ -11,6 +11,9 @@ This is a group activity for at least 3 students:
 - **(Bonus)** Use an oracle to fetch off-chain data:
   - Use an oracle to fetch information from a data source of your preference.
   - Use the data fetched to create the proposals in the constructor of the ballot.
+ <img width="474" alt="Screenshot 2024-09-01 at 13 50 00" src="https://github.com/user-attachments/assets/23cd8e26-e99f-49b6-9344-f25ea306c73e">
+
+
 
 ## Voting dApp Integration Guidelines
 
